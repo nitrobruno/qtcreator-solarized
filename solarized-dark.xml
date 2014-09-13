@@ -44,4 +44,10 @@
   <style name="RemovedLine" foreground="#dc322f"/>
   <style name="DiffFile" foreground="#268bd2"/>
   <style name="DiffLocation" foreground="#b58900"/>
+  <style name="DiffFileLine" background="#4d1d08"/>
+  <style name="DiffContextLine" foreground="#002029" background="#002029"/>
+  <style name="DiffSourceLine" background="#03333f"/>
+  <style name="DiffSourceChar" background="#083f4d"/>
+  <style name="DiffDestLine" background="#03333f"/>
+  <style name="DiffDestChar" background="#083f4d"/>
 </style-scheme>
